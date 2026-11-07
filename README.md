@@ -1,14 +1,11 @@
-# Hello, I'm CHANGEME
+# Hello, I'm JEREMIAH
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I am a recent graduate in computer science with a profound interest in technology and a dedication to solving complex problems.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My background in computer science has sparked a strong interest in cybersecurity. I have developed skills in both digital forensics and security operations, and I’m seeking an opportunity to apply them in a role where I can investigate digital evidence, monitor threats, and help strengthen an organization’s security.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
